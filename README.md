@@ -2,7 +2,6 @@
 
 **Author:** Dinesh Kumar Kotha  
 **Date:** October 12, 2025  
-**Repository:** Private GitHub – `terran_calib_test`  
 **Challenge:** Multi-Sensor Extrinsics Calibration from AprilTag Detections  
 
 ---
