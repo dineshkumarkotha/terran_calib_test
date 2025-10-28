@@ -1,4 +1,4 @@
-# Terran Robotics – Multi-Sensor Extrinsics Calibration (Track B)
+#  Robotics – Multi-Sensor Extrinsics Calibration
 
 **Author:** Dinesh Kumar Kotha  
 **Date:** October 12, 2025  
